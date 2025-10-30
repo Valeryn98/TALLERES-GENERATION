@@ -1,0 +1,8 @@
+let nombre =  "valery";        
+let edad = 27;                
+let esEstudiante = true;    
+ 
+console.log("Nombre:", nombre);            
+console.log("Edad:", edad);                
+console.log("¿Es estudiante?", esEstudiante);
+ 
